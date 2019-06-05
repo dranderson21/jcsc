@@ -33,22 +33,3 @@ Styles
   background: #3db5da
 }
 
-
-
-/* 
-==========================================
-Flexbox
-==========================================
-*/
-
-.main-nav-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.activities-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
